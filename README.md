@@ -4,7 +4,7 @@ Analysis of Citibike Ride Data for the July 2019
 
 I live in Williamsburg and near the Williamsburg bridge there is a large Citibike docking station. Watching people constantly crossing the bridge into Manhattan and back, I became curious about how the whole system works. Citibike publishes all of their data (e.g., start station, end station, ride duration) so I decided to explore a bit.
 
-The dataset I used contained ride data from July 1st, 2019 to July 31st 2019. In that time, 2.18 million rides occured. 
+The dataset I used contained ride data from July 1st, 2019 to July 31st 2019. In that time, 2.18 million rides occured on a 14,356 unique bikes. 
 
 Tuesday is the most popular day with 393,455 having taken place in July. 
 
