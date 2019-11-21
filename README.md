@@ -8,12 +8,12 @@ The dataset I used contained ride data from July 1st, 2019 to July 31st 2019. In
 
 Tuesday is the most popular day to ride. 
 
-![Rides Per Day](https://user-images.githubusercontent.com/33380363/69206548-fa9efc80-0b1a-11ea-82fb-6a61c970b291.jpeg)
+![PopularDaysPlot](https://user-images.githubusercontent.com/33380363/69303775-3b1a7b00-0bec-11ea-9899-d0d8f171e079.jpeg)
+
 
 Rush hour between 8-9am and 5-6pm are the most busy times.
 
-![Most Popular Hours](https://user-images.githubusercontent.com/33380363/69207603-620a7b80-0b1e-11ea-9091-0538c4b6fbe7.jpeg)
-
+![PopularHoursPlot](https://user-images.githubusercontent.com/33380363/69303767-3786f400-0bec-11ea-8b6a-29303f9bb914.jpeg)
 Peak ride times differ for the weekend, however.
 
 ![Weekday vs Weekend Plot](https://user-images.githubusercontent.com/33380363/69303645-c3e4e700-0beb-11ea-941f-3ec400dd160a.jpeg)
