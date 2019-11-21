@@ -16,5 +16,7 @@ Rush hour between 8-9am and 5-6pm are the most busy times.
 
 Peak ride times differ for the weekend, however suggesting that many citibike riders use the system for their commute. Weekend riders take more leasurely rides; the medium weekend ride time is 20.1 minutes compared to the weekday median of 16.4 minutes. 
 
-![Weekday vs Weekend Plot](https://user-images.githubusercontent.com/33380363/69303645-c3e4e700-0beb-11ea-941f-3ec400dd160a.jpeg)
+![Weekdayvsweekendplot](https://user-images.githubusercontent.com/33380363/69370375-d69f0080-0c6b-11ea-8559-1f45900cfb22.jpeg)
+
+
 
