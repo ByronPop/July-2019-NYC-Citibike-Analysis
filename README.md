@@ -13,3 +13,8 @@ Tuesday is the most popular day to ride.
 Rush hour between 8-9am and 5-6pm are the most busy times.
 
 ![Most Popular Hours](https://user-images.githubusercontent.com/33380363/69207603-620a7b80-0b1e-11ea-9091-0538c4b6fbe7.jpeg)
+
+Peak ride times differ for the weekend, however.
+
+![Weekday vs Weekend Plot](https://user-images.githubusercontent.com/33380363/69303645-c3e4e700-0beb-11ea-941f-3ec400dd160a.jpeg)
+
