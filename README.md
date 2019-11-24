@@ -18,5 +18,15 @@ Peak ride times differ for the weekend, however suggesting that many citibike ri
 
 ![Weekdayvsweekendplot](https://user-images.githubusercontent.com/33380363/69370375-d69f0080-0c6b-11ea-8559-1f45900cfb22.jpeg)
 
+The most popular start and end stations are Pershing Square North - Pershing square is located where Park Avenue and 42nd Street intersect in front of Grand Central Terminal. Rides begining there totaled **16,348**. This was not the most popular trip/route, however. 
 
+![MostPopularStartStation](https://user-images.githubusercontent.com/33380363/69487306-85d30780-0e25-11ea-8896-fac05d745ee9.png)
+
+Riders traveled to Governors island in July making Soissons Landing - Soissons Landing the most most popular trip (**902 total**)
+
+![MostPopularTrip](https://user-images.githubusercontent.com/33380363/69487305-82d81700-0e25-11ea-956c-f34a91d35250.png)
+
+Rides tend to begin and end in the financial district and parts of midtown, likely due to those areas being employment hotspots. I am currently trying to map the bike routes to better where people are actually going. 
+
+![Start Station Heat Map Q22019](https://user-images.githubusercontent.com/33380363/69487307-8b305200-0e25-11ea-9b29-cf16489b7c58.png)
 
