@@ -26,7 +26,8 @@ Riders traveled to Governors island in July making Soissons Landing - Soissons L
 
 ![MostPopularTrip](https://user-images.githubusercontent.com/33380363/69487305-82d81700-0e25-11ea-956c-f34a91d35250.png)
 
-Rides tend to begin and end in the financial district and parts of midtown, likely due to those areas being employment hotspots. I am currently trying to map the bike routes to better where people are actually going. 
+Rides tend to begin and end in the financial district and parts of midtown, likely due to those areas being large areas employment. I am currently trying to map the bike routes to better where people are actually going. 
 
 ![Start Station Heat Map Q22019](https://user-images.githubusercontent.com/33380363/69487307-8b305200-0e25-11ea-9b29-cf16489b7c58.png)
+
 
