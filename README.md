@@ -6,7 +6,7 @@ I live in Williamsburg and near the Williamsburg bridge there is a large Citibik
 
 The dataset I used contained ride data from July 1st, 2019 to July 31st 2019. In that time, **2.18 million** rides occured on **14,356** unique bikes. 
 
-Tuesday is the most popular day with **393,455** rides having taken place in July. 
+Tuesday is the most popular day with **393,455** rides having taken place in July. Riders used the bikes **89,368** times on July 24th making it the most popular day in the month. 
 
 ![PopularDaysPlot](https://user-images.githubusercontent.com/33380363/69369931-e8cc6f00-0c6a-11ea-99b4-3d347f92afdb.jpeg)
 
