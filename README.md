@@ -22,7 +22,7 @@ The most popular start and end stations are Pershing Square North - Pershing squ
 
 ![MostPopularStartStation](https://user-images.githubusercontent.com/33380363/69487306-85d30780-0e25-11ea-8896-fac05d745ee9.png)
 
-Riders traveled to Governors island in July making Soissons Landing - Soissons Landing the most most popular trip (**902 total**)
+Riders traveled to Governors island in July making the loop around the island from Soissons Landing back to Soissons Landing the most most popular trip (**902 total**)
 
 ![MostPopularTrip](https://user-images.githubusercontent.com/33380363/69487305-82d81700-0e25-11ea-956c-f34a91d35250.png)
 
